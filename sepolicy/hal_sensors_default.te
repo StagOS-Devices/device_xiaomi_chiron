@@ -5,4 +5,7 @@ allow hal_sensors_default audioserver_service:service_manager find;
 
 allow hal_sensors_default sound_device:chr_file { ioctl read open };
 
+allow hal_sensors_default vndbinder_device:chr_file ioctl;
+allow hal_sensors_default vndservicemanager:binder {call transfer };
+
 binder_use(hal_sensors_default)
