@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_chiron.mk
+    $(LOCAL_DIR)/stag_chiron.mk
