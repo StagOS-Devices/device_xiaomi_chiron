@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_chiron.mk
+    $(LOCAL_DIR)/stag_chiron.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_chiron-user \
-    aosp_chiron-userdebug \
-    aosp_chiron-eng
+    stag_chiron-user \
+    stag_chiron-userdebug \
+    stag_chiron-eng
