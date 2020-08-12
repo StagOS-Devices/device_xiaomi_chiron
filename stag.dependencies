@@ -7,7 +7,7 @@
   },
   {
     "remote"      : "github",
-    "repository"  : "AnggaSP/android_kernel_xiaomi_msm8998",
+    "repository"  : "LineageOS/android_kernel_xiaomi_msm8998",
     "target_path" : "kernel/xiaomi/msm8998",
     "branch"      : "ten"
   },
@@ -17,10 +17,4 @@
     "target_path" : "vendor/xiaomi/",
     "branch"      : "sx"
   },
-  {
-    "repository": "AnggaSP/clang",
-    "target_path": "prebuilts/clang/host/linux-x86/clang-custom",
-    "branch": "master",
-    "remote": "github"
-  }
 ]
