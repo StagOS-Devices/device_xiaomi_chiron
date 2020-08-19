@@ -14,7 +14,7 @@
   {
     "remote"      : "github",
     "repository"  : "StagOS-Devices/vendor_xiaomi_msm8998",
-    "target_path" : "vendor/xiaomi/",
+    "target_path" : "vendor/xiaomi",
     "branch"      : "sx"
   }
 ]
