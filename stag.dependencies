@@ -1,7 +1,6 @@
 [
   {
-    "remote"      : "github",
-    "repository"  : "StagOS-Devices/device_xiaomi_msm8998-common",
+    "repository"  : "device_xiaomi_msm8998-common",
     "target_path" : "device/xiaomi/msm8998-common",
     "branch"      : "sx"
   },
@@ -9,11 +8,9 @@
     "remote"      : "github",
     "repository"  : "LineageOS/android_kernel_xiaomi_msm8998",
     "target_path" : "kernel/xiaomi/msm8998",
-    "branch"      : "ten"
   },
   {
-    "remote"      : "github",
-    "repository"  : "StagOS-Devices/vendor_xiaomi_msm8998",
+    "repository"  : "vendor_xiaomi_msm8998",
     "target_path" : "vendor/xiaomi",
     "branch"      : "sx"
   }
