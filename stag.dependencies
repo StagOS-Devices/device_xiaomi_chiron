@@ -16,5 +16,5 @@
     "repository"  : "StagOS-Devices/vendor_xiaomi_msm8998",
     "target_path" : "vendor/xiaomi/",
     "branch"      : "sx"
-  },
+  }
 ]
